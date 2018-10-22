@@ -20,12 +20,12 @@ div.row {
 
 div.row::after {
     clear: both;
-    content: “”;
+    content: "";
     display: table;
 }
 
 /* Grid Columns Styles */
-div[class^=”col-”] {
+div[class^="col-"] {
     float: left;
 }
 
