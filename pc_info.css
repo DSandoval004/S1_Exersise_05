@@ -17,10 +17,11 @@
 } */
 
 /* Main Styles */
+/* Changed the height so tht page wouldn't have a scroll bar, at least for on my computer, the orginal height was suspossed to be 450px. */
 main {
     overflow: auto;
     position: relative;
-    height: 450px;
+    height: 430px;
     width: 100%;
 }
 
